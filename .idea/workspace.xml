@@ -26,10 +26,18 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3558c86d-4f2e-4d1c-b0b6-9f18f73eee87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20. Valid Parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3558c86d-4f2e-4d1c-b0b6-9f18f73eee87" name="Default Changelist" comment="add 20. Valid Parentheses">
+      <change afterPath="$PROJECT_DIR$/11. Container With Most Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. 3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Letter Combinations of a Phone Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Remove Nth Node From End of List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22. Generate Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33. Search in Rotated Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39. Combination Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. ZigZag Conversion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Longest Palindromic Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Longest Palindromic Substring.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +65,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1krFTvugaag3OddsLIkX4dHWNJW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -68,8 +80,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Software/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -212,19 +225,18 @@
       <updated>1606118382266</updated>
       <workItem from="1606118399122" duration="21762000" />
     </task>
+    <task id="LOCAL-00001" summary="add 20. Valid Parentheses">
+      <created>1606464922486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606464922486</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="21762000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -251,12 +263,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add 20. Valid Parentheses" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 20. Valid Parentheses" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1364" height="178" key="GridCell.Tab.0.bottom" timestamp="1606493318674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606493318674" />
+    <state width="1364" height="178" key="GridCell.Tab.0.center" timestamp="1606493318674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606493318674" />
+    <state width="1364" height="178" key="GridCell.Tab.0.left" timestamp="1606493318673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606493318673" />
+    <state width="1364" height="178" key="GridCell.Tab.0.right" timestamp="1606493318674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606493318674" />
     <state x="256" y="114" key="SettingsEditor" timestamp="1606463068601">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="256" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606463068601" />
+    <state x="412" y="140" key="Vcs.Push.Dialog.v2" timestamp="1606465041084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="412" y="140" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606465041084" />
+    <state x="577" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611735121881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1611735121881" />
   </component>
   <component name="masterDetails">
     <states>
