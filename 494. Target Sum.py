@@ -1,4 +1,4 @@
-# recursion (DP without memorization)
+# recursion (Brute Force)
 class Solution:
     def findTargetSumWays(self, nums, S):
         if not nums:
@@ -8,7 +8,7 @@ class Solution:
                 num_equal_absS = 2 if S == 0 else 1
         return self.findTargetSumWays(nums[1:], S - nums[0]) + self.findTargetSumWays(nums[1:], S + nums[0]) + num_equal_absS
 
-# DP with memorization
+# DP (DFS) with memorization
 class Solution:
     def findTargetSumWays(self, nums, S):
         index = len(nums) - 1
